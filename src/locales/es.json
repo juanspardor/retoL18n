@@ -1,0 +1,11 @@
+{
+    "Position": "Nombre del cargo",
+    "Company": "Empresa",
+    "Salary": "Salario",
+    "City": "Ciudad",
+    "PublicationDate": "Fecha de publicación",
+    "Views": "No. de visitas",
+    "unitSalary": "millones",
+    "bacColor": "#f8f9fa",
+    "color": "#000000"
+}
